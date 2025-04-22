@@ -11,11 +11,11 @@
 ### 📚 My Log
 
 <div>
-    <a href="https://www.notion.so/798bbdc1557e476b86d55e56f8768daa" target="_blank">
-        <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    </a>
     <a href="https://yeon7513.tistory.com" target="_blank">
         <img src="https://img.shields.io/badge/tistory-ff5a4a?style=for-the-badge&logo=tistory&logoColor=white">
+    </a>
+    <a href="https://www.notion.so/798bbdc1557e476b86d55e56f8768daa" target="_blank">
+        <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </a>
 </div>
 
